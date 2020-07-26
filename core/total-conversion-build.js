@@ -93,7 +93,8 @@ document.body.innerHTML = ''
   + '</div>'
   + '<div id="updatestatus"><div id="innerstatus"></div></div>'
   // avoid error by stock JS
-  + '<div id="play_button"></div>';
+  + '<div id="play_button"></div>'
+  + '<div id="loading_msg"></div>';
 
 // CONFIG OPTIONS ////////////////////////////////////////////////////
 window.REFRESH = 30; // refresh view every 30s (base time)
