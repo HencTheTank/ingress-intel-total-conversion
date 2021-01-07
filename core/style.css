@@ -1153,7 +1153,7 @@ td + td {
   padding-top: 0.7em;
 }
 
-#play_button {
+#play_button, #loading_msg {
   display: none;
 }
 
